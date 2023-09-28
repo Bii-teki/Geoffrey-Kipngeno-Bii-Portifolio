@@ -32,8 +32,8 @@ export default function About() {
             strings: [
               "✋I'm Geoffrey Bii",
               "I'm an enthusiast Full-Stack 🌐developer",
-              "I'm a 4th yr CSE 👨‍🎓 in VIT Vellore",
-              "You can 📲 me through discord or ✉️",
+              // "I'm a 4th yr CSE 👨‍🎓 in VIT Vellore",
+              // "You can 📲 me through discord or ✉️",
             ],
             delay: 150,
             pauseFor: 1500,
